@@ -1,0 +1,6 @@
+BenriServ — Public Documentation Repository
+© 2025 Ana Vertedor (alias: Nerine Aoi). All rights reserved.
+
+This repository contains only public documentation and visual assets.
+Private or academic materials (such as blockchain timestamp proofs and internal design documents)
+are stored separately in a private repository for legal and academic protection.
